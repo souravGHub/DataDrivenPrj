@@ -1,0 +1,10 @@
+12/06/2020 23:54:58 devpinoyLogger Conf File Loaded
+12/06/2020 23:54:58 devpinoyLogger OR File Loaded
+12/06/2020 23:55:00 devpinoyLogger Chrome Launched
+12/06/2020 23:55:04 devpinoyLogger Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+12/06/2020 23:55:09 devpinoyLogger Inside LoginAsBankManager
+12/06/2020 23:55:09 devpinoyLogger Assert Successful...
+12/06/2020 23:55:09 devpinoyLogger LoginSuccessful...
+12/06/2020 23:55:09 devpinoyLogger ROWS :5 COLS: 5
+12/06/2020 23:55:17 devpinoyLogger ROWS :2 COLS: 3
+12/06/2020 23:55:20 devpinoyLogger Test Execution completed!!!!

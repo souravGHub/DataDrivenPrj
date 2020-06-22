@@ -1,0 +1,39 @@
+15/06/2020 06:57:16 DEBUG devpinoyLogger - Conf File Loaded
+15/06/2020 06:57:16 DEBUG devpinoyLogger - OR File Loaded
+15/06/2020 06:57:27 DEBUG devpinoyLogger - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+15/06/2020 06:57:31 DEBUG devpinoyLogger - Inside LoginAsBankManager
+15/06/2020 06:57:32 DEBUG devpinoyLogger - Assert Successful...
+15/06/2020 06:57:32 DEBUG devpinoyLogger - LoginSuccessful...
+15/06/2020 06:57:32 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:32 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:32 DEBUG devpinoyLogger - ROWS :5 COLS: 5
+15/06/2020 06:57:32 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:32 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:32 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:36 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:36 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:36 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:36 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:36 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:39 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:39 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:39 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:39 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:39 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:39 DEBUG devpinoyLogger - ROWS :2 COLS: 3
+15/06/2020 06:57:42 DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15/06/2020 06:57:42 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15/06/2020 06:57:42 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15/06/2020 06:57:42 DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15/06/2020 06:57:42 DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15/06/2020 06:57:48 DEBUG devpinoyLogger - Test Execution completed!!!!
